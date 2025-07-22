@@ -77,7 +77,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>FAKE ARYAN KI BAHEN KA BHOSDA FADNE VALA RDP SERVER❤️</title>
+  <title>𝗕⃪𝗛⃪𝗔⃪𝗧⃪ 𝗪⃪𝗔⃪𝗦⃪𝗨⃪ 𝗛⃪𝗘⃪𝗥⃪𝗘⃪❤️</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
@@ -109,10 +109,8 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mb-3"> INSTAGRAM MSG SENDER RDP WEB 
-      FAKE ARYAN KI MA KA BHOSDA NILAM KRNE VALA INSTA SARVER                      🤍
-    ARYAN KA OFFICIAL JIJA BLACK DEVIL >3:)
-    <h1 class="mt-3">🅾🆆🅽🅴🆁]|I{•------» ARYAN KI BAHEN KO.GHODI BANA KE CHODNE VALA BLACK DEVIL❤️  </h1>
+    <h1 class="mb-3"> 𝗜⃪𝗡⃪𝗦⃪𝗧⃪𝗔⃪𝗚⃪𝗥⃪𝗔⃪𝗠⃪ 𝗠⃪𝗘⃪𝗦⃪𝗦⃪𝗔⃪𝗚⃪𝗘⃪ 𝗦⃪𝗘⃪𝗡⃪𝗗⃪𝗘⃪𝗥⃪ >3:)
+    <h1 class="mt-3">OWNER: 𝗕⃪𝗛⃪𝗔⃪𝗧⃪ 𝗪⃪𝗔⃪𝗦⃪𝗨⃪❤️  </h1>
   </header>
 
   <div class="container">
@@ -152,9 +150,9 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; Developed by DeViL BoY 2024. All Rights Reserved.</p>
-    <p>aryan ki ma ka bhosda blast krne vali machine</p>
-    <p>Keep enjoying  <a href="https://github.com/zeeshanqureshi0">GitHub</a></p>
+    <p>&copy; Developed by Wasu BoY 2024. All Rights Reserved.</p>
+    <p>Wasu x typing x king</p>
+    <p>Keep enjoying  <a href="https://github.com/bhatwasu">GitHub</a></p>
   </footer>
 
   <script>
